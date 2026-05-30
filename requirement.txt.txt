@@ -1,0 +1,10 @@
+Technologies Used
+
+Google Colab
+Jupyter Notebook 
+Python 3.x 
+
+Libraries
+- NumPy
+- SciPy
+- Matplotlib
